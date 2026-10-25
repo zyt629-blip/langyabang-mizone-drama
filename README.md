@@ -14,8 +14,12 @@
 
 ## 交付清单
 
-- [ ] 三集成片：待上传。单集约 300–410MB，稍后通过 Git LFS 加入 `/video/`：`第一集.mp4`、`第二集.mp4`、`第三集.mp4`
-- [x] 积分截图：已上传，见 [video/剩余积分.png](video/剩余积分.png)
+- [x] 三集成片：已发布于 [Release v1.0.0](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/tag/v1.0.0)
+  - [ep1.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep1.mp4)
+  - [ep2.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep2.mp4)
+  - [ep3.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep3.mp4)
+  - [remaining-credits.png](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/remaining-credits.png)
+- [x] 积分截图：已上传。仓库内见 [video/剩余积分.png](video/剩余积分.png)；Release 同文件见 [remaining-credits.png](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/remaining-credits.png)
 - [x] AI 短剧 skill 合集：已上传，见 [/skills/](skills/)（整包 [skills/skill-collection.zip](skills/skill-collection.zip)）
 
 合集分三个目录：`Agent 编排 Skill/`、`专业知识模块/`、`产品功能 Skill/`。每个 skill 都有 `SKILL.md` 和 `references/`，并附同名 zip 包。
@@ -66,4 +70,9 @@ skills/
 
 ## 视频
 
-成片将放在 `/video/` 目录下。积分截图已上传：`video/剩余积分.png`。三集成片仍待上传：单集约 300–410MB，稍后通过 Git LFS 加入，文件名为 `/video/第一集.mp4`、`/video/第二集.mp4`、`/video/第三集.mp4`。
+成片与积分截图已在 GitHub Release [v1.0.0](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/tag/v1.0.0)。大体积视频走 Release 下载，不进 Git 仓库：
+
+- 第1集：[ep1.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep1.mp4)
+- 第2集：[ep2.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep2.mp4)
+- 第3集：[ep3.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep3.mp4)
+- 积分截图：[remaining-credits.png](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/remaining-credits.png)（仓库内另存 [video/剩余积分.png](video/剩余积分.png)）

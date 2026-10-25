@@ -16,7 +16,9 @@
 
 - [ ] 三集成片：待上传。单集约 300–410MB，稍后通过 Git LFS 加入 `/video/`：`第一集.mp4`、`第二集.mp4`、`第三集.mp4`
 - [x] 积分截图：已上传，见 [video/剩余积分.png](video/剩余积分.png)
-- [ ] AI 短剧 skill 合集：待上传
+- [x] AI 短剧 skill 合集：已上传，见 [/skills/](skills/)（整包 [skills/skill-collection.zip](skills/skill-collection.zip)）
+
+合集分三个目录：`Agent 编排 Skill/`、`专业知识模块/`、`产品功能 Skill/`。每个 skill 都有 `SKILL.md` 和 `references/`，并附同名 zip 包。
 
 ## TODO / 待确认
 
@@ -55,6 +57,11 @@ script/
 video/
   .gitkeep
   剩余积分.png
+skills/
+  skill-collection.zip
+  Agent 编排 Skill/
+  专业知识模块/
+  产品功能 Skill/
 ```
 
 ## 视频

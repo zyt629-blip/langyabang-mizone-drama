@@ -19,10 +19,11 @@
   - [ep2.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep2.mp4)
   - [ep3.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep3.mp4)
   - [remaining-credits.png](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/remaining-credits.png)
+- [x] 预告片：[trailer.mov](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/trailer.mov)（《梅长苏脉动回来》预告片，已发布于 Release v1.0.0）
 - [x] 积分截图：已上传。仓库内见 [video/剩余积分.png](video/剩余积分.png)；Release 同文件见 [remaining-credits.png](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/remaining-credits.png)
 - [x] AI 短剧 skill 合集：已上传，见 [/skills/](skills/)（整包 [skills/skill-collection.zip](skills/skill-collection.zip)）
 
-合集分三个目录：`Agent 编排 Skill/`、`专业知识模块/`、`产品功能 Skill/`。每个 skill 都有 `SKILL.md` 和 `references/`，并附同名 zip 包。
+合集分三个目录：`Agent 编排 Skill/`、`专业知识模块/`、`产品功能 Skill/`。每个 skill 都有 `SKILL.md` 和 `references/`，并附同名 zip 包。`Agent 编排 Skill/` 另有 [storyboard-director](skills/Agent%20编排%20Skill/storyboard-director/SKILL.md) 与 [storyboard-video-prompt](skills/Agent%20编排%20Skill/storyboard-video-prompt/SKILL.md)。
 
 ## 已确认事项
 
@@ -55,8 +56,9 @@ skills/
 
 ## 视频
 
-成片与积分截图已在 GitHub Release [v1.0.0](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/tag/v1.0.0)。大体积视频走 Release 下载，不进 Git 仓库：
+成片、预告片与积分截图已在 GitHub Release [v1.0.0](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/tag/v1.0.0)。大体积视频走 Release 下载，不进 Git 仓库：
 
+- 预告片：[trailer.mov](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/trailer.mov)
 - 第1集：[ep1.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep1.mp4)
 - 第2集：[ep2.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep2.mp4)
 - 第3集：[ep3.mp4](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/ep3.mp4)

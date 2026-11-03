@@ -2,6 +2,26 @@
 
 江左梅郎雪夜被追杀，中剑身亡，在白色梦境里被斗笠引路人塞了三瓶脉动：去三个世界救三个人。脉动不是给他喝的，是递给被救的人——喝下去，人就“脉动回来”。每救一个，他的剑伤愈合一分；三个都救完，他才能复活。植入产品：脉动（达能）。三集各讲一个官方卖点：三重维生素 / 三连电解质 / 清爽果味。款式已确认：普通款脉动（青柠、水蜜桃、橙子蓝标瓶）。
 
+## 预告片截图
+
+<table>
+  <tr>
+    <td><img src="video/screenshots/trailer-1.jpg" width="260" alt="雪夜身亡"></td>
+    <td><img src="video/screenshots/trailer-2.jpg" width="260" alt="我不是死了吗"></td>
+    <td><img src="video/screenshots/trailer-3.jpg" width="260" alt="斗笠引路人"></td>
+  </tr>
+  <tr>
+    <td><img src="video/screenshots/trailer-4.jpg" width="260" alt="今晚就别想走"></td>
+    <td><img src="video/screenshots/trailer-5.jpg" width="260" alt="女团后台"></td>
+    <td><img src="video/screenshots/trailer-6.jpg" width="260" alt="你们外卖的就会撒谎"></td>
+  </tr>
+  <tr>
+    <td><img src="video/screenshots/trailer-7.jpg" width="260" alt="雪夜对剑"></td>
+  </tr>
+</table>
+
+完整预告片：[trailer.mov](https://github.com/zyt629-blip/langyabang-mizone-drama/releases/download/v1.0.0/trailer.mov)
+
 ## 三集
 
 | 集 | 标题 | 时长 | 被救者 | 植入卖点 |
@@ -47,6 +67,7 @@ script/
 video/
   .gitkeep
   剩余积分.png
+  screenshots/
 skills/
   skill-collection.zip
   Agent 编排 Skill/
